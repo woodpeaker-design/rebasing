@@ -1,1 +1,2 @@
 Third file
+Another line in third-file.txt was added in feature1 branch.
